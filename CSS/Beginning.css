@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(71, 138, 165);
+}
+
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
+
+button{
+    background-color: rgb(119, 110, 110);
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 25%;
+}
+div{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+marquee{
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: rgb(172, 172, 106);
+}
+
+a{
+    text-decoration: none;
+}
